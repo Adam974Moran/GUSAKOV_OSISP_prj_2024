@@ -2,6 +2,11 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=c
 
 ### C ###
+server_storage
+build
+.vscode
+
+
 # Prerequisites
 *.d
 
